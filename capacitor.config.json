@@ -1,0 +1,5 @@
+{
+  "appId": "com.tradingplatform.app",
+  "appName": "Trading Platform",
+  "webDir": "dist"
+}
